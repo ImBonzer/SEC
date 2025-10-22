@@ -35,6 +35,3 @@ Este proyecto fue desarrollado principalmente con **Python**, por su facilidad p
 | **Control de versiones** | Git / GitHub | Para el trabajo colaborativo y registro del progreso |
 
 ---
-
-## 📂 Estructura del proyecto
-

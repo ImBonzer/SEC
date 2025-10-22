@@ -1,4 +1,4 @@
-# Sistema para la Generación Automática de Constancias Escolares
+# Sistema de Constancias Escolares
 
 Este proyecto tiene como finalidad facilitar la creación de constancias escolares dentro de una institución educativa.  
 A menudo, el proceso de elaborar constancias es lento y se hace manualmente, lo que genera errores y pérdida de tiempo.  
